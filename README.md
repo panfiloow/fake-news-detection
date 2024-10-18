@@ -21,7 +21,7 @@ Technologies used:
 
 Project structure:
 
-- fake_news.csv: a raw data file containing the text of the news and its labels (REAL or FAKE).
+- fake_news.rar: a data file containing the text of news items and their labels (REAL or FAKE).
 
 - fake_news_detection_model.ipynb: Google Colab containing code to process the data, train the model and evaluate its performance.
 
